@@ -4,6 +4,7 @@ All team members have write access here and at https://github.com/DoliGreece/dol
 
 Please use discussions, Issues and Wiki here to collaborate
 
+Please feel free to modify bellow steps
 
 ### Suggested implementation
 
